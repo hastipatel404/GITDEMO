@@ -1,0 +1,7 @@
+>> git checkeout -b branch1
+this command will create new branch with name branch 1 
+>> git commit -m "branch1"
+>> git push -u origin btanch1
+>> git switch branch1
+>> git merge main
+this command will merge all branches to main
