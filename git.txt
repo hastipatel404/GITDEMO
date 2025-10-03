@@ -5,3 +5,7 @@ this command will create new branch with name branch 1
 >> git switch branch1
 >> git merge main
 this command will merge all branches to main
+>> git branch 
+to see how many branches are there. green will show current branch.
+>> git switch --------
+will change branch.
